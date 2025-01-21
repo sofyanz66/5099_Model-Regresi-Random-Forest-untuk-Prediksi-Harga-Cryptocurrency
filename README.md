@@ -1,0 +1,2 @@
+# 5099_Model-Regresi-Random-Forest-untuk-Prediksi-Harga-Cryptocurrency
+The model used for cryptocurrency price prediction is a Random Forest Regressor, which employs a Regression approach. It is trained on historical data like opening, highest, lowest prices, trading volume, and price spread to predict the closing price. The visualization shows the predicted price and model evaluation metrics (MAE, MSE, R²).
